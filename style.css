@@ -5,6 +5,11 @@
 
 .cabecalho{
     background-color: #0027d3;
+    color: #fff;
+    padding: 10px
+    display: flex;
+    justify-content: space-between;
+    aling-items: center;
 }
 
 .navegacao{
